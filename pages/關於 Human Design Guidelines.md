@@ -1,4 +1,4 @@
-主題:: [[關於 Human Design Guidelines]]
+title:: [[關於 Human Design Guidelines]]
 新增日期:: [[Oct 1st, 2022]] 
 標籤:: #Human Design Guidelines
 作者:: [[@Luke]]
