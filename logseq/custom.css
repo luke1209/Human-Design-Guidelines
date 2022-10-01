@@ -1,0 +1,4 @@
+//因為 Logseq 的 <code> 在白背景下看不到顏色，所以我先自定義
+code {
+    background-color: rgba(93, 99, 102, 0.22) !important;
+}
