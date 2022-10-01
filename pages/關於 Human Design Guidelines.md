@@ -1,5 +1,7 @@
+主題:: [[關於 Human Design Guidelines]]
 新增日期:: [[Oct 1st, 2022]] 
 標籤:: #Human Design Guidelines
+作者:: [[@Luke]]
 
 	- [[Story]]
 		- 在人類進行設計時，提供一個有效並且靈活的指南。
