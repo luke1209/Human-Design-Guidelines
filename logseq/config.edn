@@ -227,7 +227,7 @@
 
  ;; Enable all your properties to have corresponding pages
  :property-pages/enabled? true
- :journal/page-title-format "yyyy年MM月dd日"
+ :journal/page-title-format "MMM do, yyyy"
  :publishing/all-pages-public? true
 
  ;; Properties to exclude from having property pages
