@@ -2,7 +2,7 @@
 更新日期:: [[Oct 2nd, 2022]]
 
 - 意義 (beta) ^^更新^^
-	- Story (the story of existence，描述一個存在的故事)。
+	- Story (the story of existence，存在的故事)。
 	  
 	  此方法為「每個被創造出來的存在，都需要像一個化合物一樣具有其屬性。而我們使用說故事的方式來描述該屬性」。
 	  #+BEGIN_QUOTE
