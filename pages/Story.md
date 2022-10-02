@@ -22,4 +22,4 @@
 	  而為了確保被創造出來的存在會是一個化合物，創造者需要賦予它一個存在的意義。而這個存在意義就是 Story。
 -
 - 由來
-	- 受到 [User Story](https://en.wikipedia.org/wiki/User_story) 的影響， [[@Luke]] 創造出來的名詞。
+	- 受到 [User Story](https://en.wikipedia.org/wiki/User_story) 的影響，創造出來的名詞。
