@@ -17,4 +17,4 @@
 	- 因為大家都喜歡聽故事。
 -
 - 由來
-	- 受到 [User Story](https://en.wikipedia.org/wiki/User_story) 的影響，創造出來的名詞。
+	- 受到 [User Story](https://en.wikipedia.org/wiki/User_story) 以及 [Apple Xcode Storyboard](https://developer.apple.com/library/archive/documentation/General/Conceptual/Devpedia-CocoaApp/Storyboard.html) 的影響，創造出來的名詞。
