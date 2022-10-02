@@ -9,6 +9,8 @@
 	  被創造出的存在可以是 `有機物`，像一個生命一般充滿生機（其優點是會進化與適應。其缺點是成本通常較高，並且會死亡）。
 	  
 	  例子：具有 RWD 的網站。優點是可使用的用戶較多，缺點是開發與維護成本高。
+	  
+	  備註： [[@Luke]] 習慣在設計時使用 `有生命的 Story` 進行設計。因為此 Story 通常比較具有商業價值。
 	  #+END_QUOTE 
 	  
 	  #+BEGIN_QUOTE
@@ -20,4 +22,4 @@
 	  而為了確保被創造出來的存在會是一個化合物，創造者需要賦予它一個存在的意義。而這個存在意義就是 Story。
 -
 - 由來
-	- 受到 [User Story](https://en.wikipedia.org/wiki/User_story) 的影響，我創造出來的名詞。
+	- 受到 [User Story](https://en.wikipedia.org/wiki/User_story) 的影響， [[@Luke]] 創造出來的名詞。
