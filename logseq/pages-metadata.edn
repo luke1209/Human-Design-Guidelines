@@ -1,6 +1,9 @@
 [{:block/name "2022年10月01日",
   :block/created-at 1664614091162,
   :block/updated-at 1664614091162}
+ {:block/name "@luke",
+  :block/created-at 1664693132567,
+  :block/updated-at 1664693132567}
  {:block/name "@trello",
   :block/created-at 1664614091067,
   :block/updated-at 1664614091067}
@@ -37,6 +40,9 @@
  {:block/name "human design guidelines",
   :block/created-at 1664614091145,
   :block/updated-at 1664614091145}
+ {:block/name "human-design-guidelines",
+  :block/created-at 1664693132272,
+  :block/updated-at 1664693132272}
  {:block/name "in-progress",
   :block/created-at 1664620642433,
   :block/updated-at 1664620642433}
@@ -49,9 +55,15 @@
  {:block/name "oct 1st, 2022",
   :block/created-at 1664614091072,
   :block/updated-at 1664618108683}
+ {:block/name "oct 2nd, 2022",
+  :block/created-at 1664693132239,
+  :block/updated-at 1664693132239}
+ {:block/name "scrum master",
+  :block/created-at 1664693132561,
+  :block/updated-at 1664693132561}
  {:block/name "story",
   :block/created-at 1664614091161,
-  :block/updated-at 1664614091161}
+  :block/updated-at 1664707000888}
  {:block/name "template",
   :block/created-at 1664617941107,
   :block/updated-at 1664617984005}
@@ -67,18 +79,27 @@
  {:block/name "主題:: 關於 human design guidelines",
   :block/created-at 1664617390614,
   :block/updated-at 1664617390614}
+ {:block/name "作者",
+  :block/created-at 1664693132458,
+  :block/updated-at 1664693132458}
  {:block/name "備註",
   :block/created-at 1664618088538,
   :block/updated-at 1664618088538}
  {:block/name "新增日期",
   :block/created-at 1664614091164,
   :block/updated-at 1664614091164}
+ {:block/name "更新日期",
+  :block/created-at 1664693132650,
+  :block/updated-at 1664693132650}
  {:block/name "標籤",
   :block/created-at 1664614091069,
   :block/updated-at 1664614091069}
+ {:block/name "標題",
+  :block/created-at 1664693132457,
+  :block/updated-at 1664693132457}
  {:block/name "設計助手的 trello 使用指引",
   :block/created-at 1664617136334,
   :block/updated-at 1664619746187}
  {:block/name "關於 human design guidelines",
   :block/created-at 1664618123321, 
-  :block/updated-at 1664618157283}]
+  :block/updated-at 1664706433528}]
