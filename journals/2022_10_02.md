@@ -1,1 +1,1 @@
--
+query-table:: true
