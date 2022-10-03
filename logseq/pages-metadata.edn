@@ -64,9 +64,6 @@
  {:block/name "template",
   :block/created-at 1664617941107,
   :block/updated-at 1664617984005}
- {:block/name "test3",
-  :block/created-at 1664761997345,
-  :block/updated-at 1664761997345}
  {:block/name "todo",
   :block/created-at 1664620642433,
   :block/updated-at 1664620642433}
@@ -88,12 +85,6 @@
  {:block/name "標籤",
   :block/created-at 1664614091069,
   :block/updated-at 1664614091069}
- {:block/name "測試",
-  :block/created-at 1664761320189,
-  :block/updated-at 1664761320189}
- {:block/name "測試2",
-  :block/created-at 1664761320206,
-  :block/updated-at 1664761320206}
  {:block/name "設計助手的 trello 使用指引",
   :block/created-at 1664617136334,
   :block/updated-at 1664619746187}
