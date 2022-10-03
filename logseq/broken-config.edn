@@ -224,6 +224,8 @@
  ;; hide specific properties for blocks
  ;; E.g. :block-hidden-properties #{:created-at :updated-at}
  ;; :block-hidden-properties #{}
+ :block-hidden-properties #{:標題}
+ :block-hidden-properties #{:created-at :updated-at}
 
  ;; Enable all your properties to have corresponding pages
  :property-pages/enabled? true
@@ -239,8 +241,6 @@
  ;; punctuation and free-form text.
  ;; Re-index current graph for config to take effect
  ;; :rich-property-values? true
- :rich-property-values? true
- 
 
  ;; logbook setup
  ;; :logbook/settings

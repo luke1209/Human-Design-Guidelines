@@ -1,4 +1,4 @@
-標題:: [[設計助手的 Trello 使用指引]]
+title:: 設計助手的 Trello 使用指引
 新增日期:: [[Oct 1st, 2022]]
 標籤:: #@Trello
 作者:: [[@Luke]]
