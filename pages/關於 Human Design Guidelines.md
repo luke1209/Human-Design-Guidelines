@@ -6,6 +6,7 @@ title:: 關於 Human Design Guidelines
 -
 - [[Story]]
 	- 在人類進行設計時，提供一個有效並且靈活的指南。
+-
 - 創建知識庫方法
 	- 參考 Zettelkasten (卡片盒記憶法)
 	- 每當有新知識與腦中產生的時候，可以輕易地創建知識。
