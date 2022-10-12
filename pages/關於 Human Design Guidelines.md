@@ -1,11 +1,15 @@
 title:: 關於 Human Design Guidelines
 新增日期:: [[Oct 1st, 2022]]
+更新日期:: [[Oct 12th, 2022]] 
 標籤:: #Human-design-guidelines 
 作者:: [[@Luke]]
 
 -
 - [[Story]]
 	- 在人類進行設計時，提供一個有效並且靈活的指南。
+-
+- 創建知識庫方式 ^^beta^^ ^^新增^^
+	- 每個案子半個月，整理一部分知識至此（例如：留在設計夥伴 Figma 檔案上面的 Comment）
 -
 - 創建知識庫方法
 	- 參考 Zettelkasten (卡片盒記憶法)
